@@ -2,6 +2,8 @@
 
 Having a casual hack at getting data out of CareSens meters (at the moment, only the basic CareSens N).
 
+2015-09-21: **NOTE that the PyUSB approach doesn't work on OSX (and apparently is not the right approach for HIDs anyway!). Will look at `cython-hidapi` next**
+
 ## Contributing
 
 Feel free to contribute. Follow git-flow if possible, but don't worry too much about sticking to it if you aren't overly familiar with it (short version - call feature branches `feature/your-feature`, bug fix branches `fix/your-fix`, open Pull Requests against `develop`).
