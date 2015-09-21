@@ -9,6 +9,7 @@ Feel free to contribute. Follow git-flow if possible, but don't worry too much a
 ## Requirements
  - `pyusb` - https://github.com/walac/pyusb
    - the `pyusb` lib requires either `libusb` (0.1 or 1.0) or `OpenUSB`
+ - The USB cable for the CareSens N
 
 ### Requirements on Mac OS X
 Installing with `homebrew` and `pip`:
